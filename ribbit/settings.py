@@ -157,3 +157,5 @@ LOGGING = {
         },
     }
 }
+
+ALLOWED_HOSTS = ['127.0.0.1', 'django6969.herokuapp.com', ]
